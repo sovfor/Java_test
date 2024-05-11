@@ -118,8 +118,6 @@ public class Controller {
        else{System.out.println("Игрушек в магазине нет");}
     }
 
-    public void save(){
-        fileSave.toysSave(toyShop.getToys());
-    }
+
 
 }
